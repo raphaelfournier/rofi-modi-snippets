@@ -1,0 +1,5 @@
+cmddate_date +"%Y-%m-%d %H:%M"
+cmdepoch_date +%s
+nomcomplet_Raphaël Fournier-S'niehotta
+prenom_Raphaël
+telephone_0673834040
